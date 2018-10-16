@@ -1,5 +1,5 @@
 ﻿<?
 Hidden|@700E80@
-Username|hwid
+admin|097007C@
 Username|hwid
 ?>
