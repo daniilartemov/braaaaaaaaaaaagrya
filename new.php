@@ -1,0 +1,1 @@
+﻿idi naxuy zaebal
